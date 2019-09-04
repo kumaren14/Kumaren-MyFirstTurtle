@@ -70,6 +70,8 @@ turtle.speed(5)
 turtle.right(360)
 turtle.color("black")
 
+turtle.pendown()
+
 
 
 
