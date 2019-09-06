@@ -104,7 +104,11 @@ turtle.begin_fill()
 turtle.circle(10)
 turtle.end_fill()
 
-
+turtle.penup()
+turtle.goto(-50, 0)
+turtle.write("A collection of shapes")
+turtle.goto(-100, -20)
+turtle.write("An art gallery by Kumaren Anand")
 
 
 
